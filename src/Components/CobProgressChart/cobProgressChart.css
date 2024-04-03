@@ -1,0 +1,12 @@
+.cobProgressChart{
+    /* background: linear-gradient(to right,rgb(242, 252, 253),  rgb(131, 211, 234)); */
+    background: whitesmoke;
+    padding: 1rem 1rem;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 3;
+}
